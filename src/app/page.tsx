@@ -8,22 +8,21 @@ export default function Home() {
   //   window.location.assign("https://pixelpepegame.com/")
   // })
   return (
-    <main className="hero min-h-screen bg-[url(/construction.gif)] bg-cover ">
+    <main className="hero min-h-screen bg-white bg-cover ">
       <div className="hero-overlay bg-opacity-40"></div>
       <div className="hero-content text-center text-neutral-content">
         <div className="max-w-md">
-          {/* <h1 className="mb-5 text-5xl font-bold text-slate-950">
-            Please visit our new website at{" "}
-            <Link href="https://pixelpepegame.com/">pixelpepegame.com</Link>
-          </h1> */}
+          <h1 className="mb-5 text-5xl font-bold text-slate-950">
+            Website is UnderContruction
+          </h1>
           <p className="mb-5 text-3xl text-slate-950">
             For more info contact us on{" "}
-            <Link href="mailto:admin@pixelpepegame.com">
-              admin@bullrun2-0.com
+            <Link href="mailto:admin@wanamoon.com">
+              admin@wanamoon.com
             </Link>
             <br />
-            <Link href="https://twitter.com/BullRunDefi">
-              Twitter @BullRunDefi
+            <Link href="https://twitter.com/wanamoon_">
+              Twitter @wanamoon_
             </Link>
           </p>
         </div>
