@@ -17,13 +17,13 @@ export default function Home() {
           </h1>
           <p className="mb-5 text-3xl text-slate-950">
             For more info contact us on{" "}
-            <Link href="mailto:admin@wanamoon.com">
-              admin@wanamoon.com
+            <Link href="mailto:info@crabcoin.xyz">
+            info@crabcoin.xyz
             </Link>
-            <br />
+            {/* <br />
             <Link href="https://twitter.com/wanamoon_">
               Twitter @wanamoon_
-            </Link>
+            </Link> */}
           </p>
         </div>
       </div>
