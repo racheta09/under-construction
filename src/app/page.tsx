@@ -20,10 +20,10 @@ export default function Home() {
             <Link href="mailto:info@crabcoin.xyz">
             info@crabcoin.xyz
             </Link>
-            {/* <br />
-            <Link href="https://twitter.com/wanamoon_">
-              Twitter @wanamoon_
-            </Link> */}
+            <br />
+            <Link href="https://twitter.com/crabcoinx">
+              Twitter @crabcoinx
+            </Link>
           </p>
         </div>
       </div>
