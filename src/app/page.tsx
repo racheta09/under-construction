@@ -17,12 +17,12 @@ export default function Home() {
           </h1>
           <p className="mb-5 text-3xl text-slate-950">
             For more info contact us on{" "}
-            <Link href="mailto:info@crabcoin.xyz">
-            info@crabcoin.xyz
+            <Link href="mailto:support@chainfi.tech">
+            support@chainfi.tech
             </Link>
             <br />
-            <Link href="https://twitter.com/crabcoinx">
-              Twitter @crabcoinx
+            <Link href="https://twitter.com/tmccoin1">
+              Twitter @tmccoin1
             </Link>
           </p>
         </div>
